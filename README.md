@@ -3,7 +3,7 @@
 A real-time edge detection viewer that captures camera frames on Android, processes them using OpenCV in C++ via JNI, and displays the results using OpenGL ES. Includes a TypeScript-based web viewer for remote frame visualization.
 
 ## 📋 Features Implemented
-
+![Edge Detection Demo](image.jpeg)
 ### Android App
 - ✅ **Camera Feed Integration**: Real-time camera frame capture using Camera2 API
 - ✅ **OpenCV Processing**: Canny edge detection and grayscale filtering

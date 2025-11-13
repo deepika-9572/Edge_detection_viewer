@@ -1,0 +1,17 @@
+{
+  "name": "edge-detection-viewer",
+  "version": "1.0.0",
+  "description": "Web viewer for edge detection processed frames",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "serve": "http-server dist -p 8080"
+  },
+  "keywords": ["edge-detection", "opencv", "typescript"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.0"
+  }
+}

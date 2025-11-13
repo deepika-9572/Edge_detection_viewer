@@ -1,0 +1,33 @@
+# This file is used to store version control for your Android project.
+#
+# For more information about using it, see the documentation at:
+# https://developer.android.com/studio/command-line/variables
+
+# SDK Location (Required)
+# Update the path to your Android SDK installation
+sdk.dir=/path/to/your/Android/Sdk
+
+# NDK Location (Required for this project)
+# Update the path to your NDK installation
+ndk.dir=/path/to/your/Android/Sdk/ndk/23.1.7779620
+
+# OpenCV Android SDK Location (Required)
+# Download OpenCV Android SDK from https://opencv.org/releases
+# Extract it and update the path below
+opencv.dir=/path/to/opencv-android-sdk
+
+# Example paths:
+# On macOS:
+# sdk.dir=/Users/username/Library/Android/sdk
+# ndk.dir=/Users/username/Library/Android/sdk/ndk/23.1.7779620
+# opencv.dir=/Users/username/opencv-android-sdk
+
+# On Windows:
+# sdk.dir=C:\\Users\\username\\AppData\\Local\\Android\\Sdk
+# ndk.dir=C:\\Users\\username\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620
+# opencv.dir=C:\\path\\to\\opencv-android-sdk
+
+# On Linux:
+# sdk.dir=/home/username/Android/Sdk
+# ndk.dir=/home/username/Android/Sdk/ndk/23.1.7779620
+# opencv.dir=/home/username/opencv-android-sdk

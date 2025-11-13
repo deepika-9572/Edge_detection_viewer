@@ -1,0 +1,47 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.jks
+*.keystore
+
+# Android Studio
+.idea/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# NDK and build
+obj/
+libs/
+
+# Web
+web/node_modules/
+web/dist/
+web/.tsbuildinfo
+
+# IDEs
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Temp files
+*.tmp
+*.bak
+.cache/
+
+# OpenCV
+opencv-android-sdk/
